@@ -44,6 +44,7 @@ body {
 /* ------header------ */
 
 .header__top {
+  background-image: url("../images/top-bg.jpg");
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -183,6 +184,14 @@ body {
   padding: 70px 0;
   background-repeat: no-repeat;
   background-position: right;
+}
+
+.about__item-left {
+  background-image: url("../images/about-1.jpg");
+}
+
+.about__item-right {
+  background-image: url("../images/about-2.jpg");
 }
 
 .about__box {
